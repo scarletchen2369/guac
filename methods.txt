@@ -2,3 +2,4 @@
 - Slice onion and tomato
 = Mash all together
 - add pepper
+- add oil
